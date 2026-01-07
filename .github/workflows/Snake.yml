@@ -23,6 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
+          color_snake: "#ff0505"
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
 
 
       - name: push snake.svg to the output branch
