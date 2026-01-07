@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="left">⭕⭕ Quem sou ⭕⭕</h2>
+<h2 align="left"> Quem sou </h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">💢Objetivo, 💥 Rapido, 💤 Pratico<br>❤ Empatico, 🚫 Regras, 👁‍🗨 Analista<br>🕑 Pontual, 🔥 Hadapitavel 💧, 😎 Confiante ......</p>
+<p align="left">Objetivo, Rapido, Pratico<br> Empatico, Regras, Analista<br> Pontual, Hadapitavel, Confiante ......</p>
 
 ###
 
